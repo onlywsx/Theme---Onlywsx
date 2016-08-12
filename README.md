@@ -1,6 +1,6 @@
 # Theme - Onlywsx
 
-Dark and light custom UI themes for Sublime Text 2 and Sublime Text 3.
+Dark and light custom UI themes for Sublime Text 3.
 
 ## Design
 
@@ -8,7 +8,7 @@ Dark and light custom UI themes for Sublime Text 2 and Sublime Text 3.
 
 ## Installation
 
-Soda theme is designed to work with the latest development builds of Sublime Text, including [Sublime Text 2](http://www.sublimetext.com/dev) and [Sublime Text 3](http://www.sublimetext.com/3dev).
+Soda theme is designed to work with the latest development builds of Sublime Text, including [Sublime Text 3](http://www.sublimetext.com/3dev).
 
 ### Using Sublime Package Control
 
