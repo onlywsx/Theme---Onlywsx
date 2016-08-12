@@ -4,7 +4,7 @@ Dark and light custom UI themes for Sublime Text 3.
 
 ## Design
 
-![Dark Theme](https://raw.githubusercontent.com/onlywsx/Theme---Onlywsx/master/screenshots/20160812134546.png)
+![Onlywsx Dark Theme](https://raw.githubusercontent.com/onlywsx/Theme---Onlywsx/master/screenshots/20160812134546.png)
 
 ## Installation
 
