@@ -19,3 +19,11 @@ If you are using Will Bond's excellent [Sublime Package Control](http://wbond.n
 ## Colour Schemes
 
 enable the colour scheme via `Preferences -> Color Scheme -> User`
+
+## License
+
+Theme - Onlywsx is licensed under the Creative Commons Attribution-ShareAlike 3.0 License. You are free to share and remix the theme, however please abide by the license terms when doing so.
+
+The following details apply to the Creative Commons license "author specified" components:
+
+Based on Soda Theme by Ian Hill (http://buymeasoda.com/)
